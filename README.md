@@ -9,33 +9,70 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 ## Official
 
 - [ClockworkPi Website](https://www.clockworkpi.com) — Official product site
+- [uConsole Product Page](https://www.clockworkpi.com/uconsole) — Official uConsole page
 - [ClockworkPi Wiki](https://wiki.clockworkpi.com) — Official documentation wiki
+- [uConsole Wiki on GitHub](https://github.com/clockworkpi/uConsole/wiki) — Official repo wiki
 - [Forum — uConsole](https://forum.clockworkpi.com/c/uconsole/30) — uConsole category on the official forum
 - [GitHub Organization](https://github.com/ClockworkPi) — All official ClockworkPi repositories
-
-## OS Images & Firmware
-
-- [uConsole](https://github.com/clockworkpi/uConsole) — OS images, kernel patches, keyboard/4G firmware, schematics, and technical documents
-- [Download Mirror](http://dl.clockworkpi.io) — Community-driven mirror for OS images
-- [Etcher](https://etcher.balena.io/) — Tool to flash OS images to SD card
-
-## Kernel & Hardware
-
-- [Kernel](https://github.com/clockworkpi/Kernel) — Kernel source for ClockworkPi devices
-- [3Dmodel](https://github.com/clockworkpi/3Dmodel) — Official 3D models of the enclosure
-- [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
-
-## Related Devices
-
-- [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
-- [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
-- [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 
 ## Community
 
 - [Telegram](https://t.me/ClockworkPi) — Community chat
 - [Discord](https://discord.com/invite/XKGGkPM) — Official Discord server
 - [Reddit](https://www.reddit.com/r/ClockworkPi/) — Community subreddit
+
+## Resellers
+
+- [ClockworkPi Shop](https://www.clockworkpi.com/shop) — Official store
+- [OpenSourceSDRLab](https://opensourcesdrlab.com/products/opensourcesdrlab-uconsole-kit-rpi-cm4-lite-with-clockworkpi-v314-mainboard) — uConsole kit with CM4 Lite
+- [AliExpress](https://www.aliexpress.com/w/wholesale-ClockworkPi-uConsole.html) — Third-party listings (no official support)
+
+## OS and kernel
+
+- [uConsole](https://github.com/clockworkpi/uConsole) — Official OS images, kernel patches, and firmware
+- [Download Mirror](http://dl.clockworkpi.io) — Community-driven mirror for OS images
+- [Kernel](https://github.com/clockworkpi/Kernel) — Kernel source for ClockworkPi devices
+- [Etcher](https://etcher.balena.io/) — Tool to flash OS images to SD card
+- [uConsole-Image-Builder](https://github.com/crossplatformdev/uConsole-Image-Builder) — Scripts to build custom CM3/CM4/CM5 images
+- [uConsole-CM4-OS](https://github.com/Snoozer-94/uConsole-CM4-OS) — Custom OS builds for CM4
+- [nixos-uconsole](https://github.com/nixos-uconsole/nixos-uconsole) — NixOS on uConsole CM4 & CM5
+- [ClockworkPi-pi-gen](https://github.com/ak-rex/ClockworkPi-pi-gen) — Pi-Gen builds of Debian Trixie
+- [uconsole-cm3](https://github.com/PotatoMania/uconsole-cm3) — Run RPi CM3/CM4S and ArchLinux on uConsole
+
+## Hardware
+
+- [3Dmodel](https://github.com/clockworkpi/3Dmodel) — Official 3D models of the enclosure
+
+### 3D print and Cases
+
+- [uConsole-Parts](https://github.com/strtfnst/uConsole-Parts) — 3D-printable replacement parts
+- [3D Printed Cases](https://www.thingiverse.com/search?q=uconsole) — Community case designs (search)
+
+### Electronics
+
+- [4G Expansion Schematic](https://github.com/clockworkpi/uConsole/blob/master/clockwork_UC_4G_Schematic.pdf) — Official 4G module schematic
+- [qmk-uconsole](https://github.com/j1n6/qmk-uconsole) — QMK firmware for the uConsole keyboard
+- [upico](https://github.com/dotcypress/upico) — RP2040 expansion card
+- [uhub](https://github.com/dotcypress/uhub) — USB hub expansion card
+- [aiov2_ctl](https://github.com/hackergadgets/aiov2_ctl) — Control and telemetry client for the AIO v2 board
+- [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
+
+### Accessories
+
+- [Keypad](https://github.com/clockworkpi/Keypad) — GameShell keypad Arduino code
+- [USB-Ethernet](https://github.com/clockworkpi/USB-Ethernet) — USB Ethernet setup
+
+## Software
+
+- [bluetooth](https://github.com/clockworkpi/bluetooth) — CPI Bluetooth driver and config
+- [WatchDogsGo](https://github.com/LOCOSP/WatchDogsGo) — Open-world hacking RPG built for the uConsole
+- [Radar-project-Uconsole](https://github.com/Stevee87/Radar-project-Uconsole) — Radar tracker on Linux handheld
+
+## Related devices
+
+- [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
+- [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
+- [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 
 ---
 
