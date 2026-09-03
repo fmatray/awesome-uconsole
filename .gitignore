@@ -1,0 +1,6 @@
+# Ignore the ONNX embedding model cache cached by codebase-memory-mcp.
+# This is ~127 MB of model binaries, not project source.
+local_cache/
+
+# Ignore session-state artifacts written by the OMP agent harness.
+todo
