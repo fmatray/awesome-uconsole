@@ -25,7 +25,9 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 
 - [ClockworkPi Shop](https://www.clockworkpi.com/shop) — Official store
 - [OpenSourceSDRLab](https://opensourcesdrlab.com/products/opensourcesdrlab-uconsole-kit-rpi-cm4-lite-with-clockworkpi-v314-mainboard) — uConsole kit with CM4 Lite
-- [AliExpress](https://www.aliexpress.com/w/wholesale-ClockworkPi-uConsole.html) — Third-party listings (no official support)
+- [AliExpress](https://www.aliexpress.com/w/wholesale-ClockworkPi-uconsole.html) — Third-party listings (no official support)
+- [RPishop.cz](https://rpishop.cz/brand/clockworkpi/) — Czech shop, uConsole kits and parts
+
 
 ## OS and kernel
 
