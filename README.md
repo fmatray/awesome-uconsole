@@ -45,8 +45,18 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 
 ### 3D print and Cases
 
+- [Printables — uConsole tag](https://www.printables.com/tag/uconsole) — All uConsole designs on Printables
+- [Official Clockwork Pi uconsole](https://www.printables.com/model/1753528-official-clockwork-pi-uconsole) — All official uConsole parts in STEP format
+- [uConsole light armor](https://www.printables.com/model/1228979-clockwork-pi-uconsole-light-armor) — Lightweight protective armor
+- [Retro-Inspired handle/case](https://www.printables.com/model/1038083-retro-inspired-uconsole-handlecase) — Case with handles for any-angle use
+- [Back cover with battery lid](https://www.printables.com/model/930844-uconsole-back-cover-with-battery-lid) — Replacement back cover
+- [uConsole 3D models](https://www.printables.com/model/728083-uconsole-3d-models) — OBJ and STEP source files
+- [Meshtastic Node Backplate](https://www.printables.com/model/772126-uconsole-meshtastic-node-backplate) — Backplate for a Meshtastic node
+- [Dual-SMA antenna mount](https://www.printables.com/model/1078831-uconsole-dual-sma-antenna-mount) — Hull for two external antennas
 - [uConsole-Parts](https://github.com/strtfnst/uConsole-Parts) — 3D-printable replacement parts
-- [3D Printed Cases](https://www.thingiverse.com/search?q=uconsole) — Community case designs (search)
+- [Thingiverse — uconsole search](https://www.thingiverse.com/search?q=uconsole) — Community case designs (search)
+- [Official 3D models](https://www.clockworkpi.com/product-page/uconsole-3d-models-in-obj-format-free) — Official OBJ and STEP files (free, coupon UC)
+- [uConsole-models mirror](https://github.com/jake-bateman/uConsole-models) — Official STP/OBJ files without signup
 
 ### Electronics
 
@@ -59,12 +69,9 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 
 ### Accessories
 
-- [Keypad](https://github.com/clockworkpi/Keypad) — GameShell keypad Arduino code
-- [USB-Ethernet](https://github.com/clockworkpi/USB-Ethernet) — USB Ethernet setup
 
 ## Software
 
-- [bluetooth](https://github.com/clockworkpi/bluetooth) — CPI Bluetooth driver and config
 - [WatchDogsGo](https://github.com/LOCOSP/WatchDogsGo) — Open-world hacking RPG built for the uConsole
 - [Radar-project-Uconsole](https://github.com/Stevee87/Radar-project-Uconsole) — Radar tracker on Linux handheld
 
