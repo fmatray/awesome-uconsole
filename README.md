@@ -1,39 +1,41 @@
 # awesome-uconsole
 
-Curated list of ClockworkPi UConsole resources, software, and community projects.
+Curated list of ClockworkPi uConsole resources, software, and community projects.
 
-## :dart: About
+## About
 
-The ClockworkPi UConsole is a handheld Linux terminal device designed for makers, educators, and hobbyists. This list aggregates useful resources for development, hacking, and daily use.
+The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and integrated keyboard, available with CM4, R01, or A06 cores. This list aggregates useful resources for development, hacking, and daily use.
 
-## :books: Documentation
+## Official
 
-- [UConsole Official Documentation](https://docs.clockworkpi.com) — Official user manual and guides
-- [Linux Kernel Support](https://github.com/ClockworkPi/linux) — Kernel source and patches
+- [ClockworkPi Website](https://www.clockworkpi.com) — Official product site
+- [ClockworkPi Wiki](https://wiki.clockworkpi.com) — Official documentation wiki
+- [Forum — uConsole](https://forum.clockworkpi.com/c/uconsole/30) — uConsole category on the official forum
+- [GitHub Organization](https://github.com/ClockworkPi) — All official ClockworkPi repositories
 
-## :software: Firmware & Software
+## OS Images & Firmware
 
-- [UConsole Firmware](https://github/ClockworkPi/uConsole-firmware) — Official firmware images
-- [Terminal Software](https://github.com/ClockworkPi/console-terminal) — Custom terminal utilities
-- [Emulator Support](https://github.com/ClockworkPi/emulators) — Retro emulator configurations
+- [uConsole](https://github.com/clockworkpi/uConsole) — OS images, kernel patches, keyboard/4G firmware, schematics, and technical documents
+- [Download Mirror](http://dl.clockworkpi.io) — Community-driven mirror for OS images
+- [Etcher](https://etcher.balena.io/) — Tool to flash OS images to SD card
 
-## :wrench: Hardware & Projects
+## Kernel & Hardware
 
-- [3D Printed Cases](https://thingiverse.com/thing:456789) — Community-designed enclosures
-- [GPIO Pinout](https://github.com/ClockworkPi/uConsole-hardware) — Pin reference and expansions
-- [Battery Management](https://github.com/ClockworkPi/power-systems) — Power optimization and charging
+- [Kernel](https://github.com/clockworkpi/Kernel) — Kernel source for ClockworkPi devices
+- [3Dmodel](https://github.com/clockworkpi/3Dmodel) — Official 3D models of the enclosure
+- [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
 
-## :busts_in_silhouette: Community
+## Related Devices
 
-- [Forum](https://forum.clockworkpi.com) — User discussions and help
-- [GitHub Organization](https://github.com/ClockworkPi) — All ClockworkPi repos
-- [Telegram Chat](https://t.me/ClockworkPi) — Real-time community chat
+- [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
+- [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
+- [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 
-## :wrench: Development
+## Community
 
-- [SDK & Tools](https://github.com/ClockworkPi/development-kit) — Compilers, debuggers, and APIs
-- [API Reference](https://dev.clockworkpi.com) — Software interface documentation
-- [Contributing Guide](https://github.com/ClockworkPi/.github/blob/main/CONTRIBUTING.md) — How to contribute projects
+- [Telegram](https://t.me/ClockworkPi) — Community chat
+- [Discord](https://discord.com/invite/XKGGkPM) — Official Discord server
+- [Reddit](https://www.reddit.com/r/ClockworkPi/) — Community subreddit
 
 ---
 
