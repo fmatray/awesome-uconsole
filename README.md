@@ -27,6 +27,8 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [OpenSourceSDRLab](https://opensourcesdrlab.com/products/opensourcesdrlab-uconsole-kit-rpi-cm4-lite-with-clockworkpi-v314-mainboard) — uConsole kit with CM4 Lite
 - [AliExpress](https://www.aliexpress.com/w/wholesale-ClockworkPi-uconsole.html) — Third-party listings (no official support)
 - [RPishop.cz](https://rpishop.cz/brand/clockworkpi/) — Czech shop, uConsole kits and parts
+- [HackerGadgets](https://hackergadgets.com) — uConsole upgrade kits, AIO boards, battery holders
+- [hack2you.tech](https://hack2you.tech) — uConsole trackpad keyboard replacement
 
 
 ## OS and kernel
@@ -40,6 +42,8 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [nixos-uconsole](https://github.com/nixos-uconsole/nixos-uconsole) — NixOS on uConsole CM4 & CM5
 - [ClockworkPi-pi-gen](https://github.com/ak-rex/ClockworkPi-pi-gen) — Pi-Gen builds of Debian Trixie
 - [uconsole-cm3](https://github.com/PotatoMania/uconsole-cm3) — Run RPi CM3/CM4S and ArchLinux on uConsole
+- [uconsole-radxa-cm5-mainline](https://github.com/tdeval/uconsole-radxa-cm5-mainline) — Mainline Linux on uConsole with Radxa CM5
+- [Parrot OS](https://forum.clockworkpi.com/t/parrot-os-7-1-y-for-the-uconsole-and-devterm/14076) — Pentesting OS build for uConsole and DevTerm
 
 ## Hardware
 
@@ -66,23 +70,28 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [qmk-uconsole](https://github.com/j1n6/qmk-uconsole) — QMK firmware for the uConsole keyboard
 - [upico](https://github.com/dotcypress/upico) — RP2040 expansion card
 - [uhub](https://github.com/dotcypress/uhub) — USB hub expansion card
+- [HackerGadgets Upgrade Kit](https://hackergadgets.com/products/uconsole-upgrade-kit) — NVMe SSD (PCIe), RJ45 Ethernet, USB 3.0 expansion
+- [HackerGadgets AIO v2](https://hackergadgets.com/products/uconsole-aio-v2) — All-in-one expansion board with LoRa/WiFi/BT
 - [aiov2_ctl](https://github.com/hackergadgets/aiov2_ctl) — Control and telemetry client for the AIO v2 board
 - [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
 
 ### Accessories
 
+- [uConsole Trackpad](https://hack2you.tech) — Trackpad replacement for the built-in trackball
 
 ## Software
 
 - [WatchDogsGo](https://github.com/LOCOSP/WatchDogsGo) — Open-world hacking RPG built for the uConsole
 - [Radar-project-Uconsole](https://github.com/Stevee87/Radar-project-Uconsole) — Radar tracker on Linux handheld
 
+- [PortMaster GUI](https://github.com/PortsMaster/PortMaster-GUI) — Game ports manager for retro handhelds
+- [Meshcore GUI Client](https://github.com/cwill747/meshcore-uconsole) — GTK network analyzer for Meshcore LoRa on uConsole
+- [uConsole Status App](https://github.com/OpieTaylor911/k7batuConsoleStatusApp) — Dashboard to toggle AIO v2 radios on Trixie OS
 ## Related devices
 
 - [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
 - [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
 - [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 
----
+*Last updated: 2026-09-04*
 
-*Last updated: 2026-09-03*
