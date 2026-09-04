@@ -124,6 +124,8 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [Upgrading my Clockwork Uconsole with the Raspberry Pi Compute Module 5](https://youtu.be/ybiVhTNliRI) — CM5 upgrade guide
 
 ## Related devices
+- [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
+- [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 - [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
 
 *Last updated: 2026-09-05*
