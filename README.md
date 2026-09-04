@@ -123,7 +123,15 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [uConsole Kit RPI CM5 Lite by ClockworkPi Unboxing & Assembling](https://youtu.be/KchhIg9GDBc) — Unboxing and assembly guide
 - [Upgrading my Clockwork Uconsole with the Raspberry Pi Compute Module 5](https://youtu.be/ybiVhTNliRI) — CM5 upgrade guide
 
-## Related devices
+## Similar devices
+
+- [Carbon Computers Cybert](https://github.com/CarbonComputers/Cybert) — Raspberry Pi CM5 handheld terminal, modular QMK keyboard
+- [Carbon Computers Hackberry Pi CM5](https://github.com/ZitaoTech/HackberryPiCM5) — Ultra-portable CM5 with 4" touch display, BlackBerry keyboard
+- [Elecrow Hackberry Pi CM5](https://www.elecrow.com/hackberrypi-cm5-9900.html) — Commercial CM5 handheld with BlackBerry keyboard
+- [PocketTerm35](https://www.waveshare.com/pocketterm35.htm) — Waveshare 3.5" handheld terminal, supports Pi 4B/5
+- [piBrick PocketCM5](https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/) — Open-source CM5 handheld kit, RP2040 keyboard controller
+- [ultra-portable-cm5](https://github.com/bokc/ultra-portable-cm5) — Compact passive-cooled CM5 portable device, CAD/firmware/docs
+
 - [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
 - [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
 - [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico

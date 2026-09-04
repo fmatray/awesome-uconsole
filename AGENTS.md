@@ -73,6 +73,7 @@ When removing broken links: replace with the real verified resource if one exist
   - `## Software` — drivers, apps, games for the uConsole
   - `## Tutorials` — articles, videos, guides for learning and projects
   - `## Related devices` — DevTerm, PicoCalc, GameShell
+  - `## Similar devices` — third-party handheld Linux terminals and cyberdecks (CM5/CM4 based, e.g., Cybert, Hackberry Pi, PocketTerm)
 
 ## Important Files
 
