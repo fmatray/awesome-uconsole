@@ -55,6 +55,16 @@ When removing broken links: replace with the real verified resource if one exist
 - Keep descriptions short — one clause, lowercase start, no trailing period.
 - Bullet format exactly: `- [Name](url) — description`.
 - Never fabricate URLs, repo names, or product pages. Every URL must have been verified live (or API-confirmed) before it enters the list.
+- **Ordering**: within each section or subsection, entries MUST be sorted alphabetically by name (case-insensitive).
+- **Hardware platform split**: each Hardware subsection (`### 3D print and Cases`, `### Electronics`, `### Accessories`) MUST be split into three platform groups in this order:
+  1. `#### CM4 / CM5` — entries for Raspberry Pi CM4 and CM5 cores
+  2. `#### Radxa CM5` — entries specific to Radxa CM5
+  3. `#### Others (CM3, A06, etc.)` — entries for CM3, CM4S, A06, or platform-agnostic
+  Use `*(none yet)*` placeholder if a group is empty.
+- **Resellers split**: the `## Resellers` section MUST be divided into:
+  - `### uConsole resellers (official / authorized)` — shops officially affiliated with ClockworkPi
+  - `### Third-party / marketplace` — unofficial channels, marketplaces, third-party hardware vendors
+  A reseller can appear in both categories if applicable. Each entry MUST include country in parentheses at the end of the description, e.g., `(China)`, `(Austria)`, `(Czech Republic)`. Multiple countries allowed: `(China / global)`.
 - Categories (keep this structure):
   - `## Official` — clockworkpi.com pages, wiki, forum, GitHub org
   - `## Community` — Telegram, Discord, Reddit
