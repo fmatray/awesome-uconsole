@@ -71,8 +71,8 @@ When removing broken links: replace with the real verified resource if one exist
   - `## OS and kernel` — official images, kernels, community OS builds
   - `## Hardware` — with subsections: `### 3D print and Cases`, `### Electronics`, `### Accessories`
   - `## Software` — drivers, apps, games for the uConsole
+  - `## Tutorials` — articles, videos, guides for learning and projects
   - `## Related devices` — DevTerm, PicoCalc, GameShell
-- Update the `*Last updated: YYYY-MM-DD*` footer line on content changes.
 
 ## Important Files
 

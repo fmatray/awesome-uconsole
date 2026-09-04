@@ -93,7 +93,7 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [upico](https://github.com/dotcypress/upico) — RP2040 expansion card
 - [uhub](https://github.com/dotcypress/uhub) — USB hub expansion card
 - [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
-
+- [Openterface KVM Extension Module v2](https://openterface.com/kvmext/) — Portable KVM console, HDMI capture, USB gadget mode
 ### Accessories
 
 #### CM4 / CM5
@@ -106,10 +106,26 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [uConsole Status App](https://github.com/OpieTaylor911/k7batuConsoleStatusApp) — Dashboard to toggle AIO v2 radios on Trixie OS
 - [WatchDogsGo](https://github.com/LOCOSP/WatchDogsGo) — Open-world hacking RPG built for the uConsole
 
-## Related devices
+## Tutorials
 
-- [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
-- [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
+### Articles (uconsole.net)
+
+- [Choosing the Right uConsole for your Needs](https://uconsole.net/choosing-the-uconsole-model-for-you/) — Model comparison guide (2025-05)
+- [Elevate uConsole Connectivity with the USB-C Expansion Card](https://uconsole.net/elevate-uconsole-connectivity-with-the-usb-c-expansion-card/) — USB-C expansion card guide
+- [Hands on with the Openterface KVM Expansion Board for uConsole](https://uconsole.net/hands-on-with-the-openterface-kvm-expansion-board-for-uconsole/) — Openterface KVM review (2025-12)
+- [How to Find 18650 Batteries for Your uConsole](https://uconsole.net/how-to-find-18650-batteries-for-your-uconsole/) — Battery sourcing guide (2024-08)
+- [Start Here: Top Resources to Jumpstart Your uConsole Experience](https://uconsole.net/the-top-8-resources-to-get-started-with-your-uconsole/) — Beginner resources (2024-08)
+- [The Definitive uConsole Expansion Card Roundup [2025]](https://uconsole.net/the-definitive-uconsole-expansion-card-roundup-2025/) — Expansion card comparison (2025-09)
+- [uConsole World](https://uconsole.net/) — Community blog with tutorials and project showcases
+
+### Videos (YouTube)
+
+- [Handheld Linux Cyberdeck / clockwork uConsole](https://youtu.be/oN9zw3lzSVc) — Overview and review
+- [The uConsole Is The Coolest All-New DIY Handheld We've Ever Had Our Hands On](https://youtu.be/ikF0pZqpfYw) — In-depth review
+- [uConsole Kit RPI CM5 Lite by ClockworkPi Unboxing & Assembling](https://youtu.be/KchhIg9GDBc) — Unboxing and assembly guide
+- [Upgrading my Clockwork Uconsole with the Raspberry Pi Compute Module 5](https://youtu.be/ybiVhTNliRI) — CM5 upgrade guide
+
+## Related devices
 - [PicoCalc](https://github.com/clockworkpi/PicoCalc) — Calculator-style handheld with Raspberry Pi Pico
 
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
