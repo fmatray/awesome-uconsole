@@ -42,8 +42,7 @@ Every link addition or edit follows this workflow:
    - `curl -s -o /dev/null -w "%{http_code}" -L -A "Mozilla/5.0 ..." <url>` — expect 200.
    - GitHub repos: check via `api.github.com/repos/<owner>/<repo>` or confirm in the org listing.
    - Printables: 403s curl; verify via GraphQL API `api.printables.com/graphql` with `query { print(id: "ID") { name } }`.
-   - Reddit/eBay/Amazon: bot-block curl (403/503). Accept search-engine-indexed pages as evidence.
-   - Soft-404s: inspect page content (`og:title`, `<title>`) — a generic site title means the page does not exist.
+   - Reddit/eBay/Amazon/Tindie: bot-block curl (403/503). Accept search-engine-indexed pages as evidence.
 3. **Add in README structure** — `- [Name](url) — short description` under the right category.
 4. **Commit and push** — one topic per commit, imperative subject line.
 

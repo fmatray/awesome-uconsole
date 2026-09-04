@@ -34,7 +34,7 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [AliExpress](https://www.aliexpress.com/w/wholesale-ClockworkPi-uconsole.html) — Third-party listings, no official support (China / global)
 - [HackerGadgets](https://hackergadgets.com) — uConsole upgrade kits, AIO boards, battery holders (China)
 - [hack2you.tech](https://hack2you.tech) — uConsole trackpad keyboard replacement (China)
-
+- [Tindie](https://www.tindie.com) — Maker marketplace; search "uconsole" for community hardware (bot-blocked, verify manually) (USA / global)
 ## OS and kernel
 
 ### Official
