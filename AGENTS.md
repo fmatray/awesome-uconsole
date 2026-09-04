@@ -60,7 +60,7 @@ When removing broken links: replace with the real verified resource if one exist
   1. `#### CM4 / CM5` — entries for Raspberry Pi CM4 and CM5 cores
   2. `#### Radxa CM5` — entries specific to Radxa CM5
   3. `#### Others (CM3, A06, etc.)` — entries for CM3, CM4S, A06, or platform-agnostic
-  Use `*(none yet)*` placeholder if a group is empty.
+  **If an entry works on multiple platforms, place it in `#### Others (CM3, A06, etc.)` as the default.** Remove empty platform groups (no `*(none yet)*` placeholder).
 - **Resellers split**: the `## Resellers` section MUST be divided into:
   - `### uConsole resellers (official / authorized)` — shops officially affiliated with ClockworkPi
   - `### Third-party / marketplace` — unofficial channels, marketplaces, third-party hardware vendors

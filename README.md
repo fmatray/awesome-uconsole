@@ -93,19 +93,9 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [uhub](https://github.com/dotcypress/uhub) — USB hub expansion card
 - [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
 
-#### Others (CM3, A06, etc.)
-
-*(none yet)*
-
 ### Accessories
 
 #### CM4 / CM5
-
-- [uConsole Trackpad](https://hack2you.tech) — Trackpad replacement for the built-in trackball
-
-#### Others (CM3, A06, etc.)
-
-*(none yet)*
 
 ## Software
 
