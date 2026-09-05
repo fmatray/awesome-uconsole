@@ -53,11 +53,13 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [uConsole-CM4-OS](https://github.com/Snoozer-94/uConsole-CM4-OS) — Custom OS builds for CM4
 - [ak-rex custom images](https://images.ak-rex.com) — Custom Debian/Ubuntu images for uConsole (CM4/CM5), DevTerm, Cardputer Zero
 - [Parrot OS](https://forum.clockworkpi.com/t/parrot-os-7-1-y-for-the-uconsole-and-devterm/14076) — Pentesting OS build for uConsole (CM4/CM5) and DevTerm
+
 ### Radxa CM5
 
 - [uconsole-radxa-cm5-mainline](https://github.com/tdeval/uconsole-radxa-cm5-mainline) — Mainline Linux on uConsole with Radxa CM5
 
 ### Others (CM3, A06, etc.)
+
 - [uconsole-cm3](https://github.com/PotatoMania/uconsole-cm3) — Run RPi CM3/CM4S and ArchLinux on uConsole
 
 ## Hardware
@@ -92,6 +94,7 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [uhub](https://github.com/dotcypress/uhub) — USB hub expansion card
 - [WiringPi](https://github.com/clockworkpi/WiringPi) — GPIO library for ClockworkPi devices
 - [Openterface KVM Extension Module v2](https://openterface.com/kvmext/) — Portable KVM console, HDMI capture, USB gadget mode
+
 ### Accessories
 
 #### CM4 / CM5
@@ -131,6 +134,8 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [PocketTerm35](https://www.waveshare.com/pocketterm35.htm) — Waveshare 3.5" handheld terminal, supports Pi 4B/5
 - [piBrick PocketCM5](https://www.cnx-software.com/2026/06/11/pibrick-pocketcm5-an-open-source-handheld-linux-computer-kit-for-raspberry-pi-cm5/) — Open-source CM5 handheld kit, RP2040 keyboard controller
 - [ultra-portable-cm5](https://github.com/bokc/ultra-portable-cm5) — Compact passive-cooled CM5 portable device, CAD/firmware/docs
+
+## Related devices
 
 - [DevTerm](https://github.com/clockworkpi/DevTerm) — ClockworkPi portable terminal computer
 - [GameShell](https://github.com/clockworkpi/GameShell) — Modular game console
