@@ -51,7 +51,7 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 - [nixos-uconsole](https://github.com/nixos-uconsole/nixos-uconsole) — NixOS on uConsole CM4 & CM5
 - [uConsole-Image-Builder](https://github.com/crossplatformdev/uConsole-Image-Builder) — Scripts to build custom CM3/CM4/CM5 images
 - [uConsole-CM4-OS](https://github.com/Snoozer-94/uConsole-CM4-OS) — Custom OS builds for CM4
-- [ak-rex custom images](https://images.ak-rex.com) — Custom Debian/Ubuntu images for uConsole (CM4/CM5), DevTerm, Cardputer Zero
+- [ak-rex custom images](https://ak-rex.com) — Custom Debian/Ubuntu images for uConsole (CM4/CM5), DevTerm, Cardputer Zero
 - [Parrot OS](https://forum.clockworkpi.com/t/parrot-os-7-1-y-for-the-uconsole-and-devterm/14076) — Pentesting OS build for uConsole (CM4/CM5) and DevTerm
 
 ### Radxa CM5
