@@ -103,6 +103,7 @@ The ClockworkPi uConsole is a handheld Linux terminal with a 6-inch screen and i
 
 - [Meshcore GUI Client](https://github.com/cwill747/meshcore-uconsole) — GTK network analyzer for Meshcore LoRa on uConsole
 - [PortMaster GUI](https://github.com/PortsMaster/PortMaster-GUI) — Game ports manager for retro handhelds
+- [rpitx-ui](https://github.com/IgrikXD/rpitx-ui) — RF transmitter toolkit for Raspberry Pi
 - [Radar-project-Uconsole](https://github.com/Stevee87/Radar-project-Uconsole) — Radar tracker on Linux handheld
 - [uConsole Status App](https://github.com/OpieTaylor911/k7batuConsoleStatusApp) — Dashboard to toggle AIO v2 radios on Trixie OS
 - [WatchDogsGo](https://github.com/LOCOSP/WatchDogsGo) — Open-world hacking RPG built for the uConsole
